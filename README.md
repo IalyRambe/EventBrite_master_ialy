@@ -1,24 +1,15 @@
 # README
+Bienvenue dans l'appli EventBrite
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Premières étapes
 
-Things you may want to cover:
+* Bundle install
 
-* Ruby version
+* Rails db:migrate
 
-* System dependencies
+* Si besoin : rake db:drop db:create db:migrate
 
-* Configuration
+Voici le lien heroku :
 
-* Database creation
+https://git.heroku.com/eventialy.git
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
